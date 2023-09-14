@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
-    "title": "The Secret of Mystica",
+    "cover": "https://i.ibb.co/gRkhJmW/1.jpg",
+    "title": "Getting Started with React",
     "author": "John Doe",
-    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "author_img": "https://i.ibb.co/FnnFL9F/boy1.png",
     "posted_date": "2023-09-14",
-    "reading_time": 2,
-    "hashtags": ["fantasy", "adventure", "magic"]
+    "reading_time": 4,
+    "hashtags": ["react", "javascript"]
   },
   {
     "id": 2,
-    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
-    "title": "Echoes of Destiny",
+    "cover": "https://i.ibb.co/b6NR4hZ/2.png",
+    "title": "Mastering JavaScript Essentials",
     "author": "Jane Smith",
-    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "author_img": "https://i.ibb.co/85QvVjV/boy2.jpg",
     "posted_date": "2023-09-13",
-    "reading_time": 1.5,
-    "hashtags": ["romance", "mystery"]
+    "reading_time": 3,
+    "hashtags": ["javascript", "webdevelopment"]
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
-    "title": "Quantum Chronicles",
+    "cover": "https://i.ibb.co/1M87yK3/3.png",
+    "title": "Building React Applications Like a Pro",
     "author": "David Wilson",
-    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "author_img": "https://i.ibb.co/jVX10NM/girl1.jpg",
     "posted_date": "2023-09-12",
-    "reading_time": 3,
-    "hashtags": ["sciencefiction", "timeTravel"]
+    "reading_time": 5,
+    "hashtags": ["react", "frontend"]
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
-    "title": "Innocence Lost",
+    "cover": "https://i.ibb.co/rMZdzsG/4.jpg",
+    "title": "Advanced JavaScript Techniques",
     "author": "Emily Brown",
-    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "author_img": "https://i.ibb.co/HzbyccG/girl2.jpg",
     "posted_date": "2023-09-11",
-    "reading_time": 2.5,
-    "hashtags": ["drama", "comingofage"]
+    "reading_time": 4,
+    "hashtags": ["javascript", "coding"]
   },
   {
     "id": 5,
-    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
-    "title": "The Midnight Heist",
+    "cover": "https://i.ibb.co/gRkhJmW/1.jpg",
+    "title": "Optimizing React Performance",
     "author": "Michael Johnson",
-    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "author_img": "https://i.ibb.co/HzbyccG/girl2.jpg",
     "posted_date": "2023-09-10",
-    "reading_time": 1.8,
-    "hashtags": ["crime", "thriller"]
+    "reading_time": 6,
+    "hashtags": ["react", "performance"]
   }
 ]

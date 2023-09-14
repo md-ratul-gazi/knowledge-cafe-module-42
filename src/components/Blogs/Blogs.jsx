@@ -1,7 +1,9 @@
+import PropTypes from "prop-types"; // ES6
 import { useEffect } from "react";
 import { useState } from "react";
+import Blog from "../Blog/Blog";
 
-const Blogs = () => {
+const Blogs = ({ handleAddBookMarks, handleMarkAsRead }) => {
   const [blogs, setBlogs] = useState([]);
 
   // Get data form api using useEffect()
@@ -15,9 +17,24 @@ const Blogs = () => {
   }, []);
   return (
     <div className="md:w-2/3">
-      <h1 className="text-4xl">Blogs</h1>
+      <h1 className="text-4xl mb-3">Blogs</h1>
+      <div>
+        {blogs.map((blog) => (
+          <Blog
+            key={blog.id}
+            handleAddBookMarks={handleAddBookMarks}
+            handleMarkAsRead={handleMarkAsRead}
+            blog={blog}
+          ></Blog>
+        ))}
+      </div>
     </div>
   );
+};
+
+Blogs.propTypes = {
+  handleAddBookMarks: PropTypes.func.isRequired,
+  handleMarkAsRead: PropTypes.func.isRequired,
 };
 
 export default Blogs;
