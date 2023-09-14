@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "title": "The Secret of Mystica",
+    "author": "John Doe",
+    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "posted_date": "2023-09-14",
+    "reading_time": 2,
+    "hashtags": ["fantasy", "adventure", "magic"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "title": "Echoes of Destiny",
+    "author": "Jane Smith",
+    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "posted_date": "2023-09-13",
+    "reading_time": 1.5,
+    "hashtags": ["romance", "mystery"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "title": "Quantum Chronicles",
+    "author": "David Wilson",
+    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": 3,
+    "hashtags": ["sciencefiction", "timeTravel"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "title": "Innocence Lost",
+    "author": "Emily Brown",
+    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": 2.5,
+    "hashtags": ["drama", "comingofage"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/wRHfVXv/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "title": "The Midnight Heist",
+    "author": "Michael Johnson",
+    "author-img": "https://i.ibb.co/fGNRCpp/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": 1.8,
+    "hashtags": ["crime", "thriller"]
+  }
+]
