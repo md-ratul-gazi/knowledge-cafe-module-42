@@ -13,7 +13,11 @@ const Blogs = () => {
     };
     handleData(); // Every time you need to call the fetch data
   }, []);
-  return <div></div>;
+  return (
+    <div className="md:w-2/3">
+      <h1 className="text-4xl">Blogs</h1>
+    </div>
+  );
 };
 
 export default Blogs;
