@@ -18,9 +18,14 @@ function App() {
   };
 
   // get clicked data and set in setReadingTime state
-  const handleMarkAsRead = (time) => {
+  const handleMarkAsRead = (time, id) => {
     const newTime = readingTime + time;
     setReadingTime(newTime);
+    // Remove the read blog  bookMarks
+    const remainingBookMarks = bookMarks.filter(
+      (bookmark) => bookmark.id !== id
+    );
+    setBookMarks(remainingBookMarks);
   };
   return (
     <>
