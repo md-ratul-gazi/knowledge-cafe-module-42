@@ -1,4 +1,4 @@
-# Ans:Here given Some project features in Course Registration:
+# Ans: Here given Some project features in Course Registration:
 
 
 - Course Selection: Users can select courses by clicking the "Select" button, which adds the chosen course to their enrollment list.
@@ -7,7 +7,7 @@
 - Real-time Feedback: To enhance user experience, the system leverages toast notifications. These notifications provide immediate, context-sensitive feedback to users, including notifications of successful course enrollments, warnings about credit limit breaches, and alerts for zero remaining credit balance.
 - Cart Summary: A separate cart section displays a summary of the selected courses,remaining credit balance, and total price.
 
-# Ans:Here given how i manage the state in my assignment project:
+# Ans: Here given how i manage the state in my assignment project:
 
 
 1. Course Data (courses): The project fetches course data from an API and stores it in the courses state using the useState hook.
